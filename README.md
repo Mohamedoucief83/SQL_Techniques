@@ -70,4 +70,33 @@ Extracting, Sorting, Limiting Data, and Calculated Fields: <br/>
 <br />
 
 
+<h2>SQL Project 6</h2>
+place holder exercise
+<br />
+
+
+###
+<p align="center">
+place holder exercise: <br/>
+<img width="203" height="113" alt="Image" src="https://github.com/user-attachments/assets/2673d0c6-a141-4950-8847-7f38eab292df" />
+<br />
+<br />
+
+
+<h2>SQL Project 7</h2>
+place holder exercise 7
+<br />
+
+
+###
+<p align="center">
+ <img width="290" height="74" alt="Image" src="https://github.com/user-attachments/assets/437db071-4503-46d8-a1c6-6a2e0cefcb76" />
+<br />
+<br />
+
+
+
+
+
+
 </p>
